@@ -64,5 +64,5 @@
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [First Blog](https://dev.to/x10sic/first-blog-59eb)
+- [First Blog](https://dev.to/x10sic/first-blog-45aj)
 <!-- BLOG-POST-LIST:END -->
