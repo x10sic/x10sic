@@ -15,6 +15,9 @@
     hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
+  
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Enthusiast++in+Web+Development+;Android+Development;Cyber+Security;Game+development+)
+  
   <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
@@ -58,6 +61,8 @@
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=x10sic&theme=merko)]
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x10sic&layout=compact&theme=vision-friendly-dark)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=x10sic)
 
 ---
 
