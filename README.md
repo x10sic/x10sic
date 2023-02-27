@@ -55,9 +55,10 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=x10sic&theme=merko)](https://git.io/streak-stats)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=x10sic&theme=merko)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x10sic&layout=compact&theme=vision-friendly-dark)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x10sic&layout=compact&theme=vision-friendly-dark)
+
 ---
 
 ### :writing_hand: Blog Posts :
