@@ -40,21 +40,61 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
+**Programming & Databases**
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
+</div>
+
+**BI & Data Visualization**
+<div>
+  <img src="https://raw.githubusercontent.com/x10sic/x10sic/main/icons/powerbi.svg" title="Power BI" alt="Power BI" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/x10sic/x10sic/main/icons/microsoftexcel.svg" title="Excel" alt="Excel" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/x10sic/x10sic/main/icons/tableau.svg" title="Tableau" alt="Tableau" width="40" height="40"/>
+</div>
+
+**Cloud & Platforms**
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/x10sic/x10sic/main/icons/sap.svg" title="SAP" alt="SAP" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/x10sic/x10sic/main/icons/databricks.svg" title="Databricks" alt="Databricks" width="40" height="40"/>
+</div>
+
+**AI & Automation**
+<div>
+  <img src="https://raw.githubusercontent.com/x10sic/x10sic/main/icons/powerautomate.svg" title="Power Automate" alt="Power Automate" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/x10sic/x10sic/main/icons/n8n.svg" title="n8n" alt="n8n" width="40" height="40"/>
+</div>
+
+**AI / LLM Engineering**
+<div>
+  <img src="https://raw.githubusercontent.com/x10sic/x10sic/main/icons/googlegemini.svg" title="Google Gemini" alt="Google Gemini" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/x10sic/x10sic/main/icons/openai.svg" title="ChatGPT" alt="ChatGPT" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/x10sic/x10sic/main/icons/claude.svg" title="Claude" alt="Claude" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/x10sic/x10sic/main/icons/langchain.svg" title="LangChain" alt="LangChain" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/x10sic/x10sic/main/icons/langgraph.svg" title="LangGraph" alt="LangGraph" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/x10sic/x10sic/main/icons/huggingface.svg" title="Hugging Face" alt="Hugging Face" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/x10sic/x10sic/main/icons/ollama.svg" title="Ollama" alt="Ollama" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/x10sic/x10sic/main/icons/streamlit.svg" title="Streamlit" alt="Streamlit" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/x10sic/x10sic/main/icons/jupyter.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>
+</div>
+
+**Business Analysis**
+<div>
+  <img src="https://raw.githubusercontent.com/x10sic/x10sic/main/icons/jira.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/x10sic/x10sic/main/icons/notion.svg" title="Notion" alt="Notion" width="40" height="40"/>
+</div>
+
+**Web & Tools**
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/x10sic/x10sic/main/icons/powerbi.svg" title="Power BI" alt="Power BI" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/x10sic/x10sic/main/icons/microsoftexcel.svg" title="Excel" alt="Excel" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/x10sic/x10sic/main/icons/sap.svg" title="SAP" alt="SAP" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/x10sic/x10sic/main/icons/powerautomate.svg" title="Power Automate" alt="Power Automate" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/x10sic/x10sic/main/icons/n8n.svg" title="n8n" alt="n8n" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>
 </div>
 
 ---
