@@ -120,9 +120,9 @@
 
 <div>
   <a href="https://www.credly.com/badges/b86a6ff1-953f-4104-868b-ae1d9a3f9d1e"><img src="https://raw.githubusercontent.com/x10sic/x10sic/main/certifications/aws-cloud-practitioner.png" title="AWS Certified Cloud Practitioner" alt="AWS Certified Cloud Practitioner" width="110"/></a>&nbsp;
+  <a href="https://www.credly.com/badges/7aef850b-2333-4cbb-a8b1-a4cd025d9588"><img src="https://raw.githubusercontent.com/x10sic/x10sic/main/certifications/aws-academy-cloud-foundations.png" title="AWS Academy Graduate - Cloud Foundations" alt="AWS Academy Graduate - Cloud Foundations" width="110"/></a>&nbsp;
   <a href="https://www.credly.com/badges/d4f8907a-516a-431f-8197-0a51039e8293"><img src="https://raw.githubusercontent.com/x10sic/x10sic/main/certifications/azure-fundamentals.png" title="Microsoft Certified: Azure Fundamentals" alt="Microsoft Certified: Azure Fundamentals" width="110"/></a>&nbsp;
   <a href="https://www.credly.com/badges/e015fc6f-fb72-4263-b86a-0a50646ef9c0"><img src="https://raw.githubusercontent.com/x10sic/x10sic/main/certifications/power-platform-fundamentals.png" title="Microsoft Certified: Power Platform Fundamentals" alt="Microsoft Certified: Power Platform Fundamentals" width="110"/></a>&nbsp;
-  <a href="https://www.credly.com/badges/7aef850b-2333-4cbb-a8b1-a4cd025d9588"><img src="https://raw.githubusercontent.com/x10sic/x10sic/main/certifications/aws-academy-cloud-foundations.png" title="AWS Academy Graduate - Cloud Foundations" alt="AWS Academy Graduate - Cloud Foundations" width="110"/></a>&nbsp;
   <a href="https://www.salesforce.com/trailblazer/x10sic"><img src="https://raw.githubusercontent.com/x10sic/x10sic/main/certifications/salesforce-platform-developer.png" title="Salesforce Certified Platform Developer" alt="Salesforce Certified Platform Developer" width="110"/></a>&nbsp;
   <a href="https://www.salesforce.com/trailblazer/x10sic"><img src="https://raw.githubusercontent.com/x10sic/x10sic/main/certifications/salesforce-double-star-ranger.png" title="Salesforce Double Star Ranger" alt="Salesforce Double Star Ranger" width="110"/></a>
 </div>
