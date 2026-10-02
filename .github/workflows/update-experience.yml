@@ -1,0 +1,47 @@
+name: Update experience years
+
+on:
+  schedule:
+    # Run on the 1st of every month
+    - cron: "0 0 1 * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Compute years of experience and update README
+        run: |
+          python3 << 'EOF'
+          import re
+          from datetime import date
+
+          start = date(2024, 7, 1)  # first day of work
+          today = date.today()
+          years = today.year - start.year - ((today.month, today.day) < (start.month, start.day))
+          new_text = f"{years}+"
+
+          with open("README.md") as f:
+              content = f.read()
+
+          updated, n = re.subn(
+              r"<!--exp-->.*?<!--/exp-->",
+              f"<!--exp-->{new_text}<!--/exp-->",
+              content,
+          )
+          assert n == 1, f"expected 1 experience marker, found {n}"
+
+          with open("README.md", "w") as f:
+              f.write(updated)
+          print(f"Experience set to: {new_text} years")
+          EOF
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet || (git add README.md && git commit -m "chore: update years of experience" && git push)
