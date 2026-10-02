@@ -76,8 +76,19 @@
 
 ---
 
-### :writing_hand: Blog Posts :
+### :medal: Certifications :
 
-<!-- BLOG-POST-LIST:START -->
-- [First Blog](https://dev.to/x10sic/first-blog-45aj)
-<!-- BLOG-POST-LIST:END -->
+<div>
+  <a href="https://www.credly.com/badges/b86a6ff1-953f-4104-868b-ae1d9a3f9d1e">
+    <img src="https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Cloud Practitioner"/>
+  </a>&nbsp;
+  <a href="https://www.credly.com/badges/d4f8907a-516a-431f-8197-0a51039e8293">
+    <img src="https://img.shields.io/badge/Microsoft_Certified-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Certified: Azure Fundamentals"/>
+  </a>&nbsp;
+  <a href="https://www.credly.com/badges/e015fc6f-fb72-4263-b86a-0a50646ef9c0">
+    <img src="https://img.shields.io/badge/Microsoft_Certified-Power_Platform_Fundamentals-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Certified: Power Platform Fundamentals"/>
+  </a>&nbsp;
+  <a href="https://www.credly.com/badges/7aef850b-2333-4cbb-a8b1-a4cd025d9588">
+    <img src="https://img.shields.io/badge/AWS_Academy-Cloud_Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Academy Graduate - Cloud Foundations"/>
+  </a>
+</div>
