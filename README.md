@@ -76,25 +76,13 @@
 
 ---
 
-### :medal: Certifications :
+### :medal_sports: Certifications :
 
 <div>
-  <a href="https://www.credly.com/badges/b86a6ff1-953f-4104-868b-ae1d9a3f9d1e">
-    <img src="https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Cloud Practitioner"/>
-  </a>&nbsp;
-  <a href="https://www.credly.com/badges/d4f8907a-516a-431f-8197-0a51039e8293">
-    <img src="https://img.shields.io/badge/Microsoft_Certified-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Certified: Azure Fundamentals"/>
-  </a>&nbsp;
-  <a href="https://www.credly.com/badges/e015fc6f-fb72-4263-b86a-0a50646ef9c0">
-    <img src="https://img.shields.io/badge/Microsoft_Certified-Power_Platform_Fundamentals-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Certified: Power Platform Fundamentals"/>
-  </a>&nbsp;
-  <a href="https://www.credly.com/badges/7aef850b-2333-4cbb-a8b1-a4cd025d9588">
-    <img src="https://img.shields.io/badge/AWS_Academy-Cloud_Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Academy Graduate - Cloud Foundations"/>
-  </a>&nbsp;
-  <a href="https://www.salesforce.com/trailblazer/x10sic">
-    <img src="https://img.shields.io/badge/Salesforce_Certified-Platform_Developer-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce Certified Platform Developer"/>
-  </a>&nbsp;
-  <a href="https://www.salesforce.com/trailblazer/x10sic">
-    <img src="https://img.shields.io/badge/Salesforce-Double_Star_Ranger-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce Double Star Ranger"/>
-  </a>
+  <a href="https://www.credly.com/badges/b86a6ff1-953f-4104-868b-ae1d9a3f9d1e"><img src="https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Certified Cloud Practitioner"/></a>
+  <a href="https://www.credly.com/badges/d4f8907a-516a-431f-8197-0a51039e8293"><img src="https://img.shields.io/badge/Microsoft_Certified-Azure_Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Certified: Azure Fundamentals"/></a>
+  <a href="https://www.credly.com/badges/e015fc6f-fb72-4263-b86a-0a50646ef9c0"><img src="https://img.shields.io/badge/Microsoft_Certified-Power_Platform_Fundamentals-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft Certified: Power Platform Fundamentals"/></a>
+  <a href="https://www.credly.com/badges/7aef850b-2333-4cbb-a8b1-a4cd025d9588"><img src="https://img.shields.io/badge/AWS_Academy-Cloud_Foundations-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Academy Graduate - Cloud Foundations"/></a>
+  <a href="https://www.salesforce.com/trailblazer/x10sic"><img src="https://img.shields.io/badge/Salesforce_Certified-Platform_Developer-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="Salesforce Certified Platform Developer"/></a>
+  <a href="https://www.salesforce.com/trailblazer/x10sic"><img src="https://img.shields.io/badge/Salesforce-Double_Star_Ranger-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="Salesforce Double Star Ranger"/></a>
 </div>
