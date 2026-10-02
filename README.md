@@ -68,11 +68,11 @@
 
 ### :fire: My Stats :
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=x10sic&theme=merko)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=x10sic&theme=merko&dates=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x10sic&layout=compact&theme=vision-friendly-dark)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=x10sic&show_icons=true&theme=vision-friendly-dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=x10sic&show_icons=true&theme=vision-friendly-dark&custom_title=Abhishek%27s%20GitHub%20Stats)
 
 ---
 
