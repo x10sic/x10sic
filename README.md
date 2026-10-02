@@ -10,6 +10,9 @@
     <a href="https://twitter.com/X10sic">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
+    <a href="mailto:abhishekpalsuryavanshi@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
   </div>
   <h1>
     hey there
@@ -31,8 +34,7 @@
 - :brain: Building **Agentic AI solutions** — hybrid LLM reasoning with deterministic business rules: natural-language data querying, AI-powered root-cause analysis, and automated stakeholder communication.
 - :bar_chart: Power BI dashboards, automated ETL workflows, KPI monitoring & anomaly detection across enterprise systems.
 - :seedling: Currently exploring agentic AI workflows, LLM integrations, and intelligent business process automation.
-- :trophy: **Rising Roar Award** & **Badge of Honour: Rising Star**.
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/x10sic/)
+- :trophy: **Rising Roar Award (T&T)** – Deloitte; **Badge of Honour: Rising Star** – Deloitte (SAP); **Move the Dot Award (Individual)** – Deloitte; **Move the Dot Award (Team)** – Deloitte, for AI, Innovation & Collaboration.
 
 ---
 
