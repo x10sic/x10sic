@@ -50,12 +50,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
-</div>
-
-<div>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>&nbsp;
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>&nbsp;
-  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP"/>
+  <img src="https://raw.githubusercontent.com/x10sic/x10sic/main/icons/powerbi.svg" title="Power BI" alt="Power BI" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/x10sic/x10sic/main/icons/microsoftexcel.svg" title="Excel" alt="Excel" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/x10sic/x10sic/main/icons/sap.svg" title="SAP" alt="SAP" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/x10sic/x10sic/main/icons/powerautomate.svg" title="Power Automate" alt="Power Automate" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/x10sic/x10sic/main/icons/n8n.svg" title="n8n" alt="n8n" width="40" height="40"/>
 </div>
 
 ---
