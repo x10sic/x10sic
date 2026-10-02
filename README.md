@@ -90,5 +90,11 @@
   </a>&nbsp;
   <a href="https://www.credly.com/badges/7aef850b-2333-4cbb-a8b1-a4cd025d9588">
     <img src="https://img.shields.io/badge/AWS_Academy-Cloud_Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Academy Graduate - Cloud Foundations"/>
+  </a>&nbsp;
+  <a href="https://www.salesforce.com/trailblazer/x10sic">
+    <img src="https://img.shields.io/badge/Salesforce_Certified-Platform_Developer-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce Certified Platform Developer"/>
+  </a>&nbsp;
+  <a href="https://www.salesforce.com/trailblazer/x10sic">
+    <img src="https://img.shields.io/badge/Salesforce-Double_Star_Ranger-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce Double Star Ranger"/>
   </a>
 </div>
