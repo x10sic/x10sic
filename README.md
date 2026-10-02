@@ -56,7 +56,7 @@
 
 ### :fire: My Stats :
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=x10sic&theme=merko)]
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=x10sic&theme=merko)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x10sic&layout=compact&theme=vision-friendly-dark)
 
