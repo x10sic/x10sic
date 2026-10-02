@@ -30,7 +30,7 @@
 
 ### :man_technologist: About Me :
 
-- :telescope: Data Analyst with 2+ years of experience turning business problems into data-driven solutions.
+- :telescope: Data Analyst with <!--exp-->2+<!--/exp--> years of experience turning business problems into data-driven solutions.
 - :brain: Building **Agentic AI solutions** — hybrid LLM reasoning with deterministic business rules: natural-language data querying, AI-powered root-cause analysis, and automated stakeholder communication.
 - :bar_chart: Power BI dashboards, automated ETL workflows, KPI monitoring & anomaly detection across enterprise systems.
 - :seedling: Currently exploring agentic AI workflows, LLM integrations, and intelligent business process automation.
