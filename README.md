@@ -16,7 +16,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Data+Analyst+@+Deloitte;Business+Analyst+Mindset;Agentic+AI+%26+LLM+Integrations;Python+%E2%80%A2+SQL+%E2%80%A2+Power+BI)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Data+Analyst;Business+Analyst+Mindset;Agentic+AI+%26+LLM+Integrations;Python+%E2%80%A2+SQL+%E2%80%A2+Power+BI)
 
   <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -27,11 +27,11 @@
 
 ### :man_technologist: About Me :
 
-- :telescope: Data Analyst @ **Deloitte** (client: **SAP SE, Germany**) — 2+ years turning business problems into data-driven solutions.
-- :brain: Building **Agentic AI** — designed a Sales Support AI Agent (hybrid LLM reasoning + deterministic business rules): natural-language querying of enterprise data, AI-powered root-cause analysis, and AI-generated stakeholder communication.
-- :bar_chart: Power BI dashboards, automated ETL workflows, KPI monitoring & anomaly detection across SAP enterprise systems.
+- :telescope: Data Analyst with 2+ years of experience turning business problems into data-driven solutions.
+- :brain: Building **Agentic AI solutions** — hybrid LLM reasoning with deterministic business rules: natural-language data querying, AI-powered root-cause analysis, and automated stakeholder communication.
+- :bar_chart: Power BI dashboards, automated ETL workflows, KPI monitoring & anomaly detection across enterprise systems.
 - :seedling: Currently exploring agentic AI workflows, LLM integrations, and intelligent business process automation.
-- :trophy: **Rising Roar Award** & **Badge of Honour: Rising Star** @ Deloitte.
+- :trophy: **Rising Roar Award** & **Badge of Honour: Rising Star**.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/x10sic/)
 
 ---
@@ -71,7 +71,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x10sic&layout=compact&theme=vision-friendly-dark)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=x10sic)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=x10sic&show_icons=true&theme=vision-friendly-dark)
 
 ---
 
